@@ -1,14 +1,10 @@
-  [![npm](https://img.shields.io/npm/v/flex.css.svg?style=flat-square)](https://www.npmjs.com/package/flex.css) [![npm](https://img.shields.io/npm/dt/flex.css.svg?style=flat-square)](https://www.npmjs.com/package/flex.css) [![npm](https://img.shields.io/npm/l/flex.css.svg?style=flat-square)](https://www.npmjs.com/package/flex.css)
+  [![npm](https://img.shields.io/npm/v/flexBox.css.svg?style=flat-square)](https://www.npmjs.com/package/flex.css) [![npm](https://img.shields.io/npm/dt/flex.css.svg?style=flat-square)](https://www.npmjs.com/package/flex.css) [![npm](https://img.shields.io/npm/l/flex.css.svg?style=flat-square)](https://www.npmjs.com/package/flex.css)
 
 
-### download
-```
-git clone https://github.com/lzxb/flex.css.git
-```
 
 ### npm
 ```
-npm install flex.css --save
+npm install flexBox.css --save
 ```
 
 
