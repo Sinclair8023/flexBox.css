@@ -1,6 +1,6 @@
 
 
-
+### 本项目fork自https://github.com/lzxb/flex.css
 ### npm
 ```
 npm install flexBox.css --save
